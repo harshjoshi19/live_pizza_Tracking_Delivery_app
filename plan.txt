@@ -8,8 +8,14 @@
    --nodemon 
 
 -Create Express Server - create a Server.js file 
+
+-Git setup and first commit
+
+-install larawel Mix
+
 -create Home page using Html and css
    - including tildwindcss  
+   
 -create Cart page 
    - order summary section
    -empty cart section 
